@@ -8,7 +8,6 @@ public class App {
  * @param args Required parameter.
  */
   public static void main(String[] args) {
-    System.out.println("4");
     Scanner in = new Scanner(System.in);
     String command = "";
     System.out.println("");
